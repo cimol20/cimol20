@@ -1,4 +1,4 @@
-![logo](https://github.com/kholiskamal/bg-css/blob/main/asset/UIUX%20%26%20FRONTEND2.png)
+![logo]()
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
 
 
@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
 
-- 👨‍💻 All of my projects are available at https://kholiskamal.github.io/portofolio/
+- 👨‍💻 All of my projects are available at 
 
 - ⚡ A computer deserves to be called intelligent if it can trick humans into believing that it is a human👏
 
