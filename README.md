@@ -3,8 +3,8 @@
 
 
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<h1>Hi 👋, I'm Kholis kamaluddin wahib</h1>
-<h3>a passionate UI/UX & FRONTEND from karawang,indonesia</h3>
+<h1>Hi 👋, I'm  YULI NOVIANI</h1>
+<h3>a passionate UI/UX  from karawang,indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)">
 
